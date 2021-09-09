@@ -1,0 +1,15 @@
+{
+  "name": "decklist-enrich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"enrich": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "runeterra": "^3.0.0"
+  }
+}
